@@ -2,7 +2,7 @@
 
 Interface web moderna, responsiva e performática desenvolvida para a rede  **Raízes do Nordeste**, harmonizando a tradição da culinária regional com uma experiência digital fluida.
 
-🔗 **Deploy na Vercel:** [)
+🔗 **Deploy na Vercel:** [https://raizes-do-nordeste-opal.vercel.app/)
 
 
 ## 📌 Sobre o Projeto
